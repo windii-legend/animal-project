@@ -1,0 +1,23 @@
+.center{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.img-wrap{
+  display: flex;
+  flex-wrap: wrap;
+  width:862px;
+  height:530px;
+  justify-content: center;
+}
+.list{
+  display: flex;
+  flex-direction: column;
+  width: calc(100% / 6);
+}
+.img-wrap >.list> img{
+  border:1px solid #dcdcdc;
+  box-sizing: border-box;
+  cursor: move;
+  height: 132.5px;
+}

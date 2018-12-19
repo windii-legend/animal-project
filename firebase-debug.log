@@ -1,0 +1,31 @@
+[debug] [2018-12-19T00:06:33.594Z] ----------------------------------------------------------------------
+[debug] [2018-12-19T00:06:33.595Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init hosting
+[debug] [2018-12-19T00:06:33.596Z] CLI Version:   6.1.2
+[debug] [2018-12-19T00:06:33.596Z] Platform:      darwin
+[debug] [2018-12-19T00:06:33.596Z] Node Version:  v11.4.0
+[debug] [2018-12-19T00:06:33.596Z] Time:          Wed Dec 19 2018 09:06:33 GMT+0900 (GMT+09:00)
+[debug] [2018-12-19T00:06:33.596Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-12-19T00:06:33.603Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-12-19T00:06:33.604Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/user/animal-project
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2018-12-19T00:06:33.608Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?page_size=100  
+ 
+[debug] [2018-12-19T00:06:35.438Z] <<< HTTP RESPONSE 200
